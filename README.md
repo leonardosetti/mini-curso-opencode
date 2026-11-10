@@ -1,12 +1,3 @@
----
-Version: 1.0.0
-Title: Ementa de Mini-Curso: Ferramentas de IA com SDD e Vibe Coding — OpenCode
-Status: aprovado
-Data: 10/11/2026
-Carga horária: 3h (19:00 às 22:00)
-Vinculado: conceitos-ia-opencode.md, roteiro-ambiente-ferramentas.md
----
-
 # Ementa — Mini-Curso: Ferramentas de IA com SDD e Vibe Coding (OpenCode)
 
 ## 1. Proposta
