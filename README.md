@@ -127,5 +127,6 @@ Desenvolvimento prático de um projeto do zero (greenfield), em duas seções: C
 
 | Responsável | Papel | Data | Assinatura/Aceite |
 |-------------|-------|------|-------------------|
-|             |       |      |                   |
+| Marcus Rogério | Diretor          |       |      |                |
+| Elton Batistão | Coordenador ADS  |       |      |                |
 | Leonardo Setti | Instrutor | 10/11/2026 | Leonardo Setti |
