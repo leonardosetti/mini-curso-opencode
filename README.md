@@ -20,8 +20,8 @@ Ao final do curso, o participante deverá ser capaz de:
 
 ## 📎 Documentos vinculados
 
-- **Conceitos de IA e OpenCode** — definições detalhadas dos conceitos de IA e OpenCode abordados no curso (incluindo Providers e API/Access Token).
-- **Roteiro de ambiente e ferramentas** — roteiro passo a passo de instalação e configuração de ambiente e ferramentas exigidas no laboratório.
+- [Conceitos de IA e OpenCode](conceitos-ia-opencode.md) — definições detalhadas dos conceitos de IA e OpenCode abordados no curso (incluindo Providers e API/Access Token).
+- [Roteiro de ambiente e ferramentas](roteiro-ambiente-ferramentas.md) — roteiro passo a passo de instalação e configuração de ambiente e ferramentas exigidas no laboratório.
 
 ## ✅ Pré-requisitos
 
@@ -62,7 +62,7 @@ Apresentação rápida dos conceitos que permeiam a iniciativa antes das configu
 - Diferença entre Vibe Coding e Engenharia de Software com IA
 - O papel do instrutor: orientação, não execução dos laboratórios pelos participantes
 
-*Referência:* **Conceitos de IA e OpenCode**
+*Referência:* [Conceitos de IA e OpenCode](conceitos-ia-opencode.md)
 
 ### Bloco B — Configuração de ambiente e ferramentas (45 min) — 19:30–20:15
 
@@ -72,7 +72,7 @@ Instalação e configuração do ambiente de laboratório, seguindo o roteiro vi
 - Instalação do OpenCode (opencode.json básico, funcional e puro)
 - Validação de cada ferramenta instalada
 
-*Referência:* **Roteiro de ambiente e ferramentas**
+*Referência:* [Roteiro de ambiente e ferramentas](roteiro-ambiente-ferramentas.md)
 
 ### Bloco C — OpenCode: Providers, Skills, MCPs e agentes (45 min) — 20:15–21:00
 
