@@ -1,12 +1,4 @@
----
-Version: 1.1.0
-Title: Roteiro de Configuração de Ambiente e Ferramentas — Mini-Curso IA/OpenCode
-Status: aprovado
-Data: 10/11/2026
-Vinculado a: mini-curso-ementa.md
----
-
-# Roteiro de Configuração de Ambiente e Ferramentas
+# Configuração de Ambiente e Ferramentas
 
 Manual intensivo, objetivo e direto, para nível técnico básico. Idioma: PT-BR. Comandos organizados para copy-paste. Janela de ação: **terminal Windows (PowerShell)**; após o WSL, os comandos passam a rodar dentro do Linux.
 
@@ -14,7 +6,7 @@ Manual intensivo, objetivo e direto, para nível técnico básico. Idioma: PT-BR
 
 ---
 
-## Sequência preferencial de ações
+## 📋 Sequência Preferencial de Ações
 
 ### Passo 1 — PowerShell: política de execução e Scoop
 
@@ -203,7 +195,7 @@ opencode --version
 
 ---
 
-## Validação final de entrada no curso
+## ✅ Validação Final de Entrada no Curso
 
 Confirme no terminal Windows/WSL antes do Bloco B:
 
@@ -223,7 +215,3 @@ Checklist:
 - [ ] OpenCode instalado (`opencode --version`)
 - [ ] Acesso à internet funcional
 - [ ] Conta GitHub com e-mail cadastrado
-
----
-
-*Roteiro de ambiente vinculado à ementa do mini-curso. Versão: 1.1.0 | 10/11/2026*
